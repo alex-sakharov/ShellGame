@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ShellGame</string>
+    <string name="shell_description">Open shell</string>
+    <string name="you_have_won">You have won!!!</string>
+    <string name="you_loose">You loose...</string>
+    <string name="new_game">New game</string>
+</resources>
